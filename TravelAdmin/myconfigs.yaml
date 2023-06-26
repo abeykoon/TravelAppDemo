@@ -1,0 +1,5 @@
+---
+- name: salesforceBaseUrl
+  type: string
+- name: salesfouceToken
+  type: string
